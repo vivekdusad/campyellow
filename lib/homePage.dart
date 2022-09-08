@@ -1,9 +1,9 @@
 
-import 'package:ass4/components/achivementsBullets.dart';
-import 'package:ass4/components/featuredPerformance.dart';
-import 'package:ass4/components/clanActivities.dart';
-import 'package:ass4/components/widget4.dart';
-import 'package:ass4/components/memberCard.dart';
+import 'package:campyellow_assign/components/achivementsBullets.dart';
+import 'package:campyellow_assign/components/featuredPerformance.dart';
+import 'package:campyellow_assign/components/clanActivities.dart';
+import 'package:campyellow_assign/components/widget4.dart';
+import 'package:campyellow_assign/components/memberCard.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {

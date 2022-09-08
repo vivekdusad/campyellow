@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.ass4">
+    package="com.example.campyellow_assign">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="ass4"
+        android:label="campyellow_assign"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
